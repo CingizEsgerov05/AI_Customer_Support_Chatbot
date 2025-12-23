@@ -65,6 +65,8 @@ Tier 2: BERT Deep Learning: If no keywords are matched, the input is tokenized a
 
 ## Screenshots
 
+<img width="1470" height="822" alt="Screenshot 2025-12-22 at 12 15 52 PM" src="https://github.com/user-attachments/assets/d533d5e3-8e4a-4da6-8794-f706e226d916" />
+
 
 ## 🔮 Future Improvements
 [ ] Translate internal dataset and logic to English (In Progress).
